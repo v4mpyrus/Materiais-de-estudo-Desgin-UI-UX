@@ -5,6 +5,6 @@ aqui você encontraram alguns materiais de estudo de design ui/ux. pretendo adic
 livros disponibilizados por enquanto:
 
 1- O desigin do dia a dia, Donald A. Norman;
-2- Design emocional, Donald A. Norman;
+2- Estratégia de UX,Jaime Levy;
 3- Articulando decisões do design, Tom Greever.
 
